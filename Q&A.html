@@ -59,6 +59,77 @@
         <div class="letra">
             <h2>Contactanos</h2>
             <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m12!1m3!1d481934.3792227919!2d-99.43281845652601!3d19.32093102251224!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!5e0!3m2!1ses-419!2smx!4v1639939787130!5m2!1ses-419!2smx" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+         
+          <div class="col-sm-8 text-left">
+          <div class="well" id="contenedor">
+            <h2 class="text-center">Contacto</h2>
+            <p>Favor de capturar sus datos</p>
+            <form action="contactogracias.php">
+              <div class="form-group text-left">
+                <label for="nombre">* Nombre:</label>
+                <input
+                  type="text"
+                  name="nombre"
+                  id="nombre"
+                  class="form-control"
+                  required
+                  placeholder="Escriba su nombre"
+                />
+              </div>
+              <div class="form-group text-left">
+                <label for="apellidopaterno">* Apellido Paterno:</label>
+                <input
+                  type="text"
+                  name="apellidopaterno"
+                  id="apellidopaterno"
+                  class="form-control"
+                  required
+                  placeholder="Escriba su apellido paterno"
+                />
+              </div>
+              <div class="form-group text-left">
+                <label for="apellidomaterno">* Apellido Materno:</label>
+                <input
+                  type="text"
+                  name="apellidomaterno"
+                  id="apellidomaterno"
+                  class="form-control"
+                  placeholder="Escriba su apellido materno"
+                />
+              </div>
+              <div class="form-group text-left">
+                <label for="correo">* Correo electrónico:</label>
+                <input
+                  type="email"
+                  name="correo"
+                  id="correo"
+                  class="form-control"
+                  placeholder="Escriba su correo electronico"
+                />
+              </div>
+              <div class="form-group text-left">
+                <label for="comentarios">* Comentarios:</label>
+                <textarea
+                  class="form-control"
+                  name="comentarios"
+                  id="comentarios"
+                ></textarea>
+              </div>
+              <div class="form-group text-left">
+                <label for="enviar"></label>
+                <input
+                  type="submit"
+                  name="enviar"
+                  value="Enviar"
+                  class="btn btn-success"
+                  role="button"
+                />
+              </div>
+            </form>
+          </div>
+        </div>
+            
+            
         </div>
 
 
