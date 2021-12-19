@@ -359,13 +359,16 @@
     
   }
   
-  .integrantes h3{
-    font-size: 20px;
+ .integrantes h3{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 30px;
     margin: 10px 0;
     margin-left: 150px;
+    
   }
   .integrantes p{
-    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
     margin: 10px 0;
     margin-left: 50px;
   }
