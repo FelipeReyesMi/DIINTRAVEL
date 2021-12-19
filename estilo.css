@@ -379,12 +379,11 @@
     border: 2px solid rgb(0, 0, 0);
     text-align: justify;
 }
-.descrip po{
-    display: grid;
-    gap: 30px;
-    margin: 1px 0;
-    background: url(./imagenes/o99AQEU.jpg) no-repeat center center/cover;
-    border: 2px solid rgb(0, 0, 0);
+.descrip .po{
+    margin-left: 100px;
+}
+.descrip .po2{
+    margin-left: 170px;
 }
 
 
