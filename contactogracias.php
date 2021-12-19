@@ -73,7 +73,7 @@
               accumsan. Suspendisse eu quam enim. Interdum et malesuada fames ac
               ante ipsum primis in faucibus.
             </p>
-            <a href="index.php" class="btn btn-success" role="button"
+            <a href="index.html" class="btn btn-success" role="button"
               >Regresar</a
             >
           </div>
