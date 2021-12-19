@@ -345,7 +345,7 @@
     grid-template-columns: repeat(2, 1fr); /*Indicamos en cuantas columnas se van a dividir*/
     gap: 25px; /*Colocamos la separacion que tendra entre los elementos*/
     margin: 10px 0;
-    background: black;
+   
   }
   
   .integrantes img {
