@@ -345,17 +345,18 @@
     grid-template-columns: repeat(2, 1fr); /*Indicamos en cuantas columnas se van a dividir*/
     gap: 25px; /*Colocamos la separacion que tendra entre los elementos*/
     margin: 10px 0;
-   
+    border: 5px solid black;
   }
   
   .integrantes img {
     width: 35%;
     height: 200px;
     margin-left: 150px; 
+    
   }
   .integrantes2 img {
-    width: 95%;
-    height: 300px;
+    width: 100%;
+    height: 350px;
     
   }
   
