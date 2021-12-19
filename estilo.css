@@ -372,6 +372,7 @@
 
   
 .descrip{
+    font-family: 'Courier New', Courier, monospace;
     display: grid;
     gap: 30px;
     margin: 1px 0;
@@ -389,6 +390,7 @@
 
   /*INDEX*/
   .mision {
+      font-family: 'Courier New', Courier, monospace;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
