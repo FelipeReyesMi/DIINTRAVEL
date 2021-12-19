@@ -311,7 +311,7 @@
 .letra{
     font-size: 40px;
     text-align: center;
-    color: rgb(140, 0, 255);
+    color: rgb(162, 0, 255);
     
    
 }
@@ -333,8 +333,7 @@
 }
 
 .textopri h2{
-    background: url(./imagenes/color-degradado-fondos-degradados-multicolor-51200.jpg)no-repeat
-    center center/cover;
+    
     color: rgb(0, 0, 0);
     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
@@ -360,7 +359,7 @@
     
   }
   
- .integrantes h3{
+  .integrantes h3{
     font-family: 'Courier New', Courier, monospace;
     font-size: 30px;
     margin: 10px 0;
@@ -380,39 +379,46 @@
     display: grid;
     gap: 30px;
     margin: 1px 0;
-    background: url(./imagenes/o99AQEU.jpg) no-repeat center center/cover;
+    background: #a540e9;
     border: 2px solid rgb(0, 0, 0);
     text-align: justify;
+    color: rgb(252, 252, 252);
 }
 .descrip .po{
     margin-left: 100px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(252, 252, 252);
 }
 .descrip .po2{
     margin-left: 170px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(252, 252, 252);
 }
 
 
   /*INDEX*/
   .mision {
-      font-family: 'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     gap: 30px;
     margin: 120px 0;
-    background: url(./imagenes/o99AQEU.jpg) no-repeat center center/cover;
+    background: #a540e9;
     border: 2px solid rgb(0, 0, 0);
   }
   .mision h3 {
     font-size: 30px;
     margin: 10px 0;
-    color: black;
+    color: rgb(252, 252, 252);
     
   }
   .mision p {
     font-size: 20px;
     margin: 10px 0;
-    color: black;
+    color: rgb(252, 252, 252);
     display: center;
     text-align: justify;
   }
+
+
 
