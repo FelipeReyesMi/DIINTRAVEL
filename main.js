@@ -17,5 +17,9 @@ ScrollReveal().reveal('.imagentravel', { delay: 550 });
 ScrollReveal().reveal('.textopri', { delay: 550 });
 ScrollReveal().reveal('.mision', { delay: 550 });
 ScrollReveal().reveal('.integrantes2', { delay: 550 });
+ScrollReveal().reveal('.integrantes3', { delay: 550 });
 ScrollReveal().reveal('.descrip', { delay: 550 });
+ScrollReveal().reveal('.imgtext1', { delay: 550 });
+ScrollReveal().reveal('.imgtext2', { delay: 550 });
+
 
