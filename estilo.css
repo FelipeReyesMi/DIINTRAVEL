@@ -433,5 +433,48 @@
     text-align: justify;
   }
 
+/*Servicios*/
 
+.imgtext1 img{
+    float: left;
+    width: 30%;
+    height: 250px;
+    margin-left: 30px; 
+    
+}
+
+.imgtext1 h3{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin: 20px 10px;
+    position: relative;
+}
+
+.imgtext2 img{
+    float: right;
+    width: 30%;
+    height: 250px;
+    margin-left: 30px; 
+    
+}
+
+.imgtext2 h3{
+    
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 25px;
+    margin: 20px 10px;
+    position: relative;
+}
+
+.imgtext2{
+    margin: 120px 0;
+    background: #a540e9;
+    border: 2px solid rgb(0, 0, 0);
+}
+.imgtext1{
+    margin: 120px 0;
+    background: #b876b2;
+    border: 2px solid rgb(0, 0, 0);
+}
 
